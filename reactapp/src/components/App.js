@@ -4,9 +4,7 @@ import DisplayAllPosts from "./DisplayAllPosts";
 
 const App = () => {
   return (
-    <>
-      <DisplayAllPosts />
-    </>
+    <h1> Hello World! </h1>
   );
 };
 
